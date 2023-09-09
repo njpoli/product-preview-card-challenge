@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { montserrat } from "@/app/layout";
+import { montserrat } from "@/app/styles/fonts";
 
 function PreviewCard() {
   return (
