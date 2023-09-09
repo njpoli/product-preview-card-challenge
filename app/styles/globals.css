@@ -5,6 +5,7 @@
 @layer base {
   :root {
     --colors-dark-cyan: hsl(158, 36%, 37%);
+    --colors-darker-cyan: hsl(158, 37%, 23%);
     --colors-cream: hsl(30, 38%, 92%);
     --colors-dark-blue: hsl(212, 21%, 14%);
     --colors-grey-blue: hsl(228, 12%, 48%);
