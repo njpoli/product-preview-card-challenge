@@ -9,16 +9,21 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
 ### Links
 
-- Solution URL: [https://github.com/njpoli/qr-code-challenge](https://github.com/njpoli/qr-code-challenge)
-- Live Site URL: [https://qr-code-challenge-nu.vercel.app/](https://qr-code-challenge-nu.vercel.app/)
+- Solution URL: [https://github.com/njpoli/product-preview-card-challenge](https://github.com/njpoli/product-preview-card-challenge)
+- Live Site URL: [https://product-preview-card-challenge.vercel.app/](https://product-preview-card-challenge.vercel.app/)
 
 ## My process
 
@@ -30,9 +35,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-First next.js project using the new app router, first time using tailwindcss, and first time using vercel.
-
-I don't have anything specific that I learned in here, but it was fun to use all these modern tools for the first time.
+I learned how to use tailwind responsive breakpoint media queries.  I also learned to use tailwindcss in general doing this project.
 
 ## Author
 
