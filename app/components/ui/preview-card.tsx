@@ -6,7 +6,7 @@ function PreviewCard() {
     <div className="flex flex-col sm:flex-row w-[300px] sm:w-[510px] bg-[--colors-white] rounded-lg">
       <div>
         <Image src="/image-product-desktop.jpg" height={200} width={255} alt="Desktop perfume image" className="sm:block hidden h-full min-w-[250px] rounded-l-lg"/>
-        <Image src="/image-product-mobile.jpg" height={300} width={300} alt="Mobile perfume image" className="sm:hidden w-full rounded-t-lg"/>
+        <Image src="/image-product-mobile.jpg" height={300} width={300} alt="Mobile perfume image" priority={true} className="sm:hidden w-full rounded-t-lg"/>
       </div>
       <div className="px-5 space-y-4 py-5">
         <div
